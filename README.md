@@ -99,11 +99,6 @@ Ecuador Warehouse Management System Services 👩🏾‍💻
 
 <tr>
 <td>  Instituto Geográfico Militar  </td>
-<td> <a href="http://www.geoportaligm.gob.ec/25k/wms">IGM Información 25.000 </td>
-</tr>
-
-<tr>
-<td>  Instituto Geográfico Militar  </td>
 <td> <a href="http://www.geoportaligm.gob.ec/p_geoinformacion/PANE_Suelos/wms?service=wms&version=1.3.0&request=GetCapabilities">Geopedología PANE suelos </td>
 </tr>
 
